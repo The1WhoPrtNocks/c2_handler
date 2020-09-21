@@ -99,10 +99,10 @@ def command_check(tweets):
 
 
 
-API_Key =
-API_Secret =
-Access_Token =
-Access_Token_secret =
+API_Key = ""
+API_Secret = ""
+Access_Token = ""
+Access_Token_secret = ""
 auth = OAuthHandler(API_Key, API_Secret)
 auth.set_access_token(Access_Token, Access_Token_secret)
 api = API(auth, parser=parsers.JSONParser())
