@@ -12,3 +12,5 @@ Action = the calculator will open on the host, do several calculations and displ
 
 Command = play me a song
 Action = will play the bundled audio.mp3 on the host, this is something I would never give up.
+
+![Image of Yaktocat](https://github.com/The1WhoPrtNocks/c2_handler/blob/master/calc.PNG)
